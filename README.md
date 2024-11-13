@@ -22,3 +22,5 @@
 [![Vkontakte](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk&logoColor=%230077FF)](https://vk.com/id105915203)
 ![Facebook](https://img.shields.io/badge/facebook-090909?style=for-the-badge&logo=facebook&logoColor=%230866FF)
 ![X](https://img.shields.io/badge/X-090909?style=for-the-badge&logo=X&logoColor=%238A8A8A)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkeletonHuman&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
