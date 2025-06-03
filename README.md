@@ -3,12 +3,7 @@
 ## i'm biginner QA ingeneer
 
 
-### Testing Artefacts (Тестовые артефакты)
-
-## Contact
-[![gmail](https://img.shields.io/badge/gmail
--red?style=flat&logo==gmail&logoColor=white)](kuzyakov.and96@gmail.com)
-[![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=%2326A5E4)](https://t.me/SkeletonHuman)
+### Email kuzyakov.and96@gmail.com
 
 
 ## Languages and Tools
